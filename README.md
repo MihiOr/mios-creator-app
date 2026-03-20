@@ -71,7 +71,7 @@ pip install -r requirements.txt
 From the project root:
 
 ```powershell
-python app/main.py
+python .\app\main.py
 ```
 
 ## CLI tools
@@ -87,10 +87,10 @@ The current multimedia module also includes standalone scripts in `app/core/`:
 Examples:
 
 ```powershell
-python app/core/miimg_encoder.py input.png output.miimg
-python app/core/miimg_decoder.py input.miimg output.png
-python app/core/migif_encoder.py input.gif output.migif
-python app/core/migif_decoder.py input.migif
+python .\app\core\miimg_encoder.py input.png output.miimg
+python .\app\core\miimg_decoder.py input.miimg output.png
+python .\app\core\migif_encoder.py input.gif output.migif
+python .\app\core\migif_decoder.py input.migif
 ```
 
 ## Project structure
