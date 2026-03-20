@@ -1,0 +1,1 @@
+"""MIOS multimedia GUI application."""
