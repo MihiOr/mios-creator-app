@@ -4,6 +4,18 @@ Desktop application for building parts of the MIOS ecosystem.
 
 The current version focuses on the `MIIMG` and `MIGIF` formats, with room for future modules such as language tooling, operating-system utilities, and other creator-focused components.
 
+## Preview
+
+### Main application
+
+![MIOS Creator App GUI](assets/mios-creator-app.png)
+
+### MIGIF Editor
+
+`MIGIF Editor` opened with `test_edited.proj` on frame `19`:
+
+![MIGIF Editor with test_edited.proj](assets/migif-editor-test-edited-proj.png)
+
 The current multimedia module includes:
 
 - a `MIIMG` encoder and decoder for still images
