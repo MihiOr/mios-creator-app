@@ -16,6 +16,12 @@ The current version focuses on the `MIIMG` and `MIGIF` formats, with room for fu
 
 ![MIGIF Editor with test_edited.proj](assets/migif-editor-test-edited-proj.png)
 
+### MIGIF playback example
+
+This example shows alpha-channel animation together with two layered `MIGIF` video clips in playback:
+
+![MIGIF playback example](assets/fake-mios-lizards-playback.gif)
+
 The current multimedia module includes:
 
 - a `MIIMG` encoder and decoder for still images
